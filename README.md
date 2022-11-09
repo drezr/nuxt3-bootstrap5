@@ -1,3 +1,7 @@
+# Nuxt 3 with Bootstrap 5 integration template - Working Tooltip, Popover and Toast compononents
+
+Workaround to make components requiering initialization and using Popper.js works.
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
